@@ -1,0 +1,23 @@
+# Build outputs
+build/
+dist/
+target/
+*.o
+*.ko
+*.a
+*.so
+*.bc
+*.ll
+vmlinux.h
+
+# Tool-generated files
+.cache/
+compile_commands.json
+*.d
+*.swp
+*~
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
